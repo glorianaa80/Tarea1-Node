@@ -1,11 +1,9 @@
 [
-  // Lamborghini
   {
     "id":1,
     "Brand":"Lamborghini",
     "Description":"Es un fabricante italiano de automóviles deportivos fundado en 1963 por el fabricante de tractores Ferruccio Lamborghini y que actualmente pertenece a la filial de Volkswagen."
   },
-  // Kia
   {
     "id":2,
     "Brand":"Kia",
