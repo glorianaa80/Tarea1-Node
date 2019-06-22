@@ -32,7 +32,7 @@ function f(req, res) {
     let h = Object.keys(JsonCars[0]).join(',')+ "\n";
     let body = '';
     JsonCars.forEach(o => {
-      body += Object.keys(0).map(k => o[k]).join(',')+ "\n"
+      body += Object.keys(o).map(k => o[k]).join(',')+ "\n"
     }); 
     h += body;
     res.end(h);
