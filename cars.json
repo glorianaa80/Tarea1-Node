@@ -1,5 +1,4 @@
 [
-  // Lanboeguinni
   {
     "id":1,
     "Name":"Huracán EVO spyder",
@@ -9,7 +8,6 @@
     "Color":"green",
     "Date": "21/06/2019"
   },
-  // Toyota
   {
     "id": 2,
     "Name":"Yaris Hatchback E 2019",
@@ -19,7 +17,6 @@
     "Color":"white",
     "Date": "21/06/2019"
   },
-  // Toyota
   {
     "id":3,
     "Name":"Corolla",
@@ -29,7 +26,6 @@
     "Color":"blue",
     "Date": "21/06/2019"
   },
-  // Volkswagen
   {
     "id":4,
     "Name":"Polo",
